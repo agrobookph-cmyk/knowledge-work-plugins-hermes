@@ -824,6 +824,20 @@
         "sha": "2f9c81a5d012cc9c389132331a93f4ade06a97a9"
       },
       "homepage": "https://www.dropbox.com"
+    },
+    {
+      "name": "canva",
+      "displayName": "Canva",
+      "description": "Create, edit, review, resize, and brand-check Canva designs with the Canva MCP server.",
+      "category": "design",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/canva-sdks/canva-skills.git",
+        "path": "plugins/canva",
+        "ref": "main",
+        "sha": "b56291ea0a36d0a941e1478b47959be5f1771dee"
+      },
+      "homepage": "https://www.canva.com"
     }
   ]
 }
