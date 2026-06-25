@@ -824,6 +824,20 @@
         "sha": "2f9c81a5d012cc9c389132331a93f4ade06a97a9"
       },
       "homepage": "https://www.dropbox.com"
+    },
+    {
+      "name": "signoz",
+      "displayName": "SigNoz",
+      "description": "Official SigNoz plugin for MCP setup, docs, queries, dashboards, and alerts",
+      "category": "monitoring",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/SigNoz/agent-skills.git",
+        "path": "plugins/signoz",
+        "ref": "main",
+        "sha": "b15a9247a464690d0d7f9787f305acd9a49b3012"
+      },
+      "homepage": "https://signoz.io/docs/ai/agent-skills"
     }
   ]
 }
